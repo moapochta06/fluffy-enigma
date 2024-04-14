@@ -13,7 +13,7 @@
     font-family: "ProximaNova", sans-serif;
     margin-top: 10px;
     font-size: 14px;
-    overflow: hidden;
+    overflow-x: hidden;
   }
 
   img{
